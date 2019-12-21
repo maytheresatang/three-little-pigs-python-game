@@ -1,4 +1,4 @@
-#How to contribute 
+#How to Contribute 
 
 #### Table Of Contents
 
