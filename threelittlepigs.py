@@ -19,7 +19,7 @@
 # IMPORT STATEMENTS
 import time
 
-# GET USER DATA
+# GET USER DATA .
 yourname = input("Please enter your name: ")
 print("Welcome " + yourname+"!")
 
