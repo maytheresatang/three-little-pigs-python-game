@@ -1,11 +1,5 @@
 #How to Contribute 
 
-#### Table Of Contents
-
-[Code of Conduct](#code-of-conduct)
-[Slack group](#slack-group)
-[How to contribute](#how-to-contribute)
-
 #### Code of Conduct
 
 We want this to be a happy place. Please don't be a jerk. 
